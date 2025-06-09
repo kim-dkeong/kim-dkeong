@@ -1,7 +1,7 @@
 ## kim-dkeong 🥔
 
-🏫 Pusan National University (2020.03 ~ 2024.02)<br>
-🏫 POSTECH (2024.02 ~ ) <br>
+🏫 Pusan National University (2020.03 ~ 2024.02): Biomedical Convergence Engineering (Minor: Electronics Engineering) <br>
+🏫 POSTECH (2024.02 ~ ): Convergence IT Engineering <br>
 🔭 Neural Control Laboratory
 
 ✏️ I study Neuroscience
